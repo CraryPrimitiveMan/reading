@@ -5,3 +5,6 @@
 + [Socket 深度探索 4 PHP （一）](http://blog.csdn.net/shagoo/article/details/6396089)
 + [Socket 深度探索 4 PHP （二）](http://blog.csdn.net/shagoo/article/details/6531950)
 + [Socket 深度探索 4 PHP （三）](http://blog.csdn.net/shagoo/article/details/6647961)
+
+## Javascript
++ [ECMAScript 6入门](http://es6.ruanyifeng.com/)
