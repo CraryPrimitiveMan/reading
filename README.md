@@ -8,3 +8,7 @@
 
 ## Javascript
 + [ECMAScript 6入门](http://es6.ruanyifeng.com/)
+
+## 性能
++ [c10k](http://www.kegel.com/c10k.html)
++ [c10k中文](http://www.oschina.net/translate/c10k)
