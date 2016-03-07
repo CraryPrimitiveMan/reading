@@ -12,3 +12,7 @@
 ## 性能
 + [c10k](http://www.kegel.com/c10k.html)
 + [c10k中文](http://www.oschina.net/translate/c10k)
+
+## 博客
++ [风雪之隅](http://www.laruence.com/)
++ [韩天峰(Rango)的博客](http://rango.swoole.com/)
