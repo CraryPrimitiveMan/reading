@@ -16,6 +16,7 @@
 ## 博客
 + [风雪之隅](http://www.laruence.com/)
 + [韩天峰(Rango)的博客](http://rango.swoole.com/)
++ [agentzh的博客](http://blog.sina.com.cn/openresty)
 + [我的志愿是做一个校长](http://guweigang.com/)
 + [张宴的博客 - Web系统架构与底层研发](http://zyan.cc/index.php)
 + [沈逸的个人站点](http://www.hishenyi.com/)
