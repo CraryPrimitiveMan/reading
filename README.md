@@ -9,6 +9,11 @@
 ## Javascript
 + [ECMAScript 6入门](http://es6.ruanyifeng.com/)
 
+## Nginx
++ [Nginx开发从入门到精通](http://tengine.taobao.org/book/index.html)
++ [nginx源码分析-kenbinzhang](http://blog.csdn.net/kenbinzhang/article/category/603177)
++ [nginx源码分析-阿波](http://blog.csdn.net/livelylittlefish/article/category/838107)
+
 ## 性能
 + [c10k](http://www.kegel.com/c10k.html)
 + [c10k中文](http://www.oschina.net/translate/c10k)
