@@ -10,6 +10,8 @@
 + [ECMAScript 6入门](http://es6.ruanyifeng.com/)
 
 ## Nginx
++ [Nginx 变量漫谈](http://blog.sina.com.cn/s/articlelist_1834459124_1_1.html)
++ [Nginx 配置指令的执行顺序](http://blog.sina.com.cn/s/articlelist_1834459124_2_1.html)
 + [Nginx开发从入门到精通](http://tengine.taobao.org/book/index.html)
 + [nginx源码分析-kenbinzhang](http://blog.csdn.net/kenbinzhang/article/category/603177)
 + [nginx源码分析-阿波](http://blog.csdn.net/livelylittlefish/article/category/838107)
