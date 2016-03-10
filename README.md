@@ -28,3 +28,5 @@
 + [我的志愿是做一个校长](http://guweigang.com/)
 + [张宴的博客 - Web系统架构与底层研发](http://zyan.cc/index.php)
 + [沈逸的个人站点](http://www.hishenyi.com/)
+
+## [安装](https://github.com/CraryPrimitiveMan/reading/blob/master/Installtion.md)
