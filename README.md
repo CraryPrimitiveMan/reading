@@ -16,6 +16,7 @@
 + [Nginx开发从入门到精通](http://tengine.taobao.org/book/index.html)
 + [nginx源码分析-kenbinzhang](http://blog.csdn.net/kenbinzhang/article/category/603177)
 + [nginx源码分析-阿波](http://blog.csdn.net/livelylittlefish/article/category/838107)
++ [OpenResty最佳实践](https://moonbingbing.gitbooks.io/openresty-best-practices/content/index.html)
 
 ## 性能
 + [c10k](http://www.kegel.com/c10k.html)
