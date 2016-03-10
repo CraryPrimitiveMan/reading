@@ -5,6 +5,7 @@
 + [Socket 深度探索 4 PHP （一）](http://blog.csdn.net/shagoo/article/details/6396089)
 + [Socket 深度探索 4 PHP （二）](http://blog.csdn.net/shagoo/article/details/6531950)
 + [Socket 深度探索 4 PHP （三）](http://blog.csdn.net/shagoo/article/details/6647961)
++ [php7-internal](https://github.com/laruence/php7-internal/blob/master/README.md)
 
 ## Javascript
 + [ECMAScript 6入门](http://es6.ruanyifeng.com/)
