@@ -18,6 +18,7 @@
 + [nginx源码分析-阿波](http://blog.csdn.net/livelylittlefish/article/category/838107)
 + [OpenResty最佳实践](https://moonbingbing.gitbooks.io/openresty-best-practices/content/index.html)
 + [Nginx中文文档](http://www.nginx.cn/doc/)
++ [Nginx 配置文件详解](http://my.oschina.net/duxuefeng/blog/34880)
 
 ## 性能
 + [c10k](http://www.kegel.com/c10k.html)
