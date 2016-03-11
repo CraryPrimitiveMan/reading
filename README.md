@@ -29,6 +29,7 @@
 + [风雪之隅](http://www.laruence.com/) -- PHP7核心开发者, Yaf, Yar, Yac等项目作者的博客
 + [韩天峰(Rango)的博客](http://rango.swoole.com/) -- Swoole作者的博客
 + [agentzh的博客](http://blog.sina.com.cn/openresty) -- Openresty作者的博客
++ [pagefault](http://www.pagefault.info/)
 + [我的志愿是做一个校长](http://guweigang.com/)
 + [张宴的博客 - Web系统架构与底层研发](http://zyan.cc/index.php)
 + [沈逸的个人站点](http://www.hishenyi.com/)
