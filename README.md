@@ -31,6 +31,7 @@
 + [agentzh的博客](http://blog.sina.com.cn/openresty) -- Openresty作者的博客
 + [pagefault](http://www.pagefault.info/)
 + [李子的博客](http://blog.lifeibo.com/)
++ [Mengkang's land](http://mengkang.net/)
 + [我的志愿是做一个校长](http://guweigang.com/)
 + [张宴的博客 - Web系统架构与底层研发](http://zyan.cc/index.php)
 + [沈逸的个人站点](http://www.hishenyi.com/)
