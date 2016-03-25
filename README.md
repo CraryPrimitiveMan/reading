@@ -7,6 +7,8 @@
 + [Socket 深度探索 4 PHP （三）](http://blog.csdn.net/shagoo/article/details/6647961)
 + [php7-internal](https://github.com/laruence/php7-internal/blob/master/README.md)
 + [PHP扩展开发及内核应用](https://github.com/walu/phpbook/blob/master/preface.md)
++ [提高 PHP 代码质量的 36 计](http://blog.jobbole.com/99014/)
++ [PHP并发IO编程之路](http://blog.jobbole.com/98986/)
 
 ## Javascript
 + [ECMAScript 6入门](http://es6.ruanyifeng.com/)
