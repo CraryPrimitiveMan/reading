@@ -10,6 +10,11 @@
 + [提高 PHP 代码质量的 36 计](http://blog.jobbole.com/99014/)
 + [PHP并发IO编程之路](http://blog.jobbole.com/98986/)
 
+## Go
++ [Go语言圣经](https://docs.ruanjiadeng.com/gopl-zh/)
++ [Go Web 编程](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md)
++ [深入解析Go](https://tiancaiamao.gitbooks.io/go-internals/content/zh/index.html)
+
 ## Javascript
 + [ECMAScript 6入门](http://es6.ruanyifeng.com/)
 
