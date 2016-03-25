@@ -13,6 +13,9 @@
 ## Javascript
 + [ECMAScript 6入门](http://es6.ruanyifeng.com/)
 
+## Redis
++ [Redis 设计与实现](http://redisbook.readthedocs.org/en/latest/index.html)
+
 ## Nginx
 + [Nginx 变量漫谈](http://blog.sina.com.cn/s/articlelist_1834459124_1_1.html)
 + [Nginx 配置指令的执行顺序](http://blog.sina.com.cn/s/articlelist_1834459124_2_1.html)
