@@ -38,6 +38,7 @@
 ## Linux
 + [Linux Shell 文本处理工具集锦](http://www.cnblogs.com/me115/p/3427319.html)
 + [Linux工具快速教程](http://linuxtools-rst.readthedocs.org/zh_CN/latest/index.html)
++ [linux内核揭密](https://xinqiu.gitbooks.io/linux-insides-cn/content/index.html)
 
 ## 其他
 + [How to be a Programmer](https://github.com/braydie/HowToBeAProgrammer/blob/master/zh/README.md)
