@@ -39,6 +39,9 @@
 + [Linux Shell 文本处理工具集锦](http://www.cnblogs.com/me115/p/3427319.html)
 + [Linux工具快速教程](http://linuxtools-rst.readthedocs.org/zh_CN/latest/index.html)
 
+## 其他
++ [How to be a Programmer](https://github.com/braydie/HowToBeAProgrammer/blob/master/zh/README.md)
+
 ## 博客
 + [风雪之隅](http://www.laruence.com/) -- PHP7核心开发者, Yaf, Yar, Yac等项目作者的博客
 + [韩天峰(Rango)的博客](http://rango.swoole.com/) -- Swoole作者的博客
