@@ -35,6 +35,9 @@
 + [c10k](http://www.kegel.com/c10k.html)
 + [c10k中文](http://www.oschina.net/translate/c10k)
 
+## Linux
++ [Linux Shell 文本处理工具集锦](http://blog.jobbole.com/99063/)
+
 ## 博客
 + [风雪之隅](http://www.laruence.com/) -- PHP7核心开发者, Yaf, Yar, Yac等项目作者的博客
 + [韩天峰(Rango)的博客](http://rango.swoole.com/) -- Swoole作者的博客
