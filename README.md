@@ -36,7 +36,8 @@
 + [c10k中文](http://www.oschina.net/translate/c10k)
 
 ## Linux
-+ [Linux Shell 文本处理工具集锦](http://blog.jobbole.com/99063/)
++ [Linux Shell 文本处理工具集锦](http://www.cnblogs.com/me115/p/3427319.html)
++ [Linux工具快速教程](http://linuxtools-rst.readthedocs.org/zh_CN/latest/index.html)
 
 ## 博客
 + [风雪之隅](http://www.laruence.com/) -- PHP7核心开发者, Yaf, Yar, Yac等项目作者的博客
