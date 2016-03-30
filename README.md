@@ -18,6 +18,12 @@
 ## Javascript
 + [ECMAScript 6入门](http://es6.ruanyifeng.com/)
 
+## Lua
++ [Lua入门手册](https://github.com/CraryPrimitiveMan/luaprimer)
++ [Lua 5.1 参考手册](http://www.codingnow.com/2000/download/lua_manual.html)
++ [Lua 5.3 参考手册](http://cloudwu.github.io/lua53doc/)
++ [Lua源码欣赏](http://www.codingnow.com/temp/readinglua.pdf)
+
 ## Redis
 + [Redis 设计与实现](http://redisbook.readthedocs.org/en/latest/index.html)
 
