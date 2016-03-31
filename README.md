@@ -41,6 +41,7 @@
 ## 性能
 + [c10k](http://www.kegel.com/c10k.html)
 + [c10k中文](http://www.oschina.net/translate/c10k)
++ [Web系统大规模并发——电商秒杀与抢购](http://www.csdn.net/article/2014-11-28/2822858)
 
 ## Linux
 + [Linux Shell 文本处理工具集锦](http://www.cnblogs.com/me115/p/3427319.html)
