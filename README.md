@@ -38,6 +38,11 @@
 + [Nginx 配置文件详解](http://my.oschina.net/duxuefeng/blog/34880)
 + [跟我学Nginx+Lua开发](http://www.iteye.com/blogs/subjects/nginx-lua)
 
+## RabbitMQ
++ [官网Examples](http://www.rabbitmq.com/getstarted.html)
++ [PHP AMQP Doc](http://php.net/manual/pl/book.amqp.php)
++ [RabbitMQ从入门到精通](http://blog.csdn.net/column/details/rabbitmq.html)
+
 ## 性能
 + [c10k](http://www.kegel.com/c10k.html)
 + [c10k中文](http://www.oschina.net/translate/c10k)
