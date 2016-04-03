@@ -40,6 +40,7 @@
 
 ## RabbitMQ
 + [官网Examples](http://www.rabbitmq.com/getstarted.html)
++ [rabbitmq tutorials](https://github.com/rabbitmq/rabbitmq-tutorials)
 + [PHP AMQP Doc](http://php.net/manual/pl/book.amqp.php)
 + [RabbitMQ从入门到精通](http://blog.csdn.net/column/details/rabbitmq.html)
 
