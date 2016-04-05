@@ -63,6 +63,7 @@
 + [agentzh的博客](http://blog.sina.com.cn/openresty) -- Openresty作者的博客
 + [火丁笔记](http://huoding.com/)
 + [pagefault](http://www.pagefault.info/)
++ [Hawstein's Blog](http://www.hawstein.com/) -- Scala周报
 + [李子的博客](http://blog.lifeibo.com/)
 + [Mengkang's land](http://mengkang.net/)
 + [我的志愿是做一个校长](http://guweigang.com/)
