@@ -17,6 +17,7 @@
 
 ## Javascript
 + [ECMAScript 6入门](http://es6.ruanyifeng.com/)
++ [Vue.js中文文档](http://cn.vuejs.org/)
 
 ## Lua
 + [Lua入门手册](https://github.com/CraryPrimitiveMan/luaprimer)
