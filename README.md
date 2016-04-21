@@ -76,4 +76,7 @@
 + [南京大学：计算机操作系统](https://www.coursera.org/learn/jisuanji-caozuo-xitong/)
 + [北京大学：操作系统原理](https://class.coursera.org/os-001/lecture)
 
+## 工具
++ [正则表达式解析工具](https://jex.im/regulex/)
+
 ## [安装](./Installtion.md)
