@@ -18,6 +18,7 @@
 ## Javascript
 + [ECMAScript 6入门](http://es6.ruanyifeng.com/)
 + [Vue.js中文文档](http://cn.vuejs.org/)
++ [You-Dont-Need-jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery/blob/master/README.zh-CN.md)
 
 ## Lua
 + [Lua入门手册](https://github.com/CraryPrimitiveMan/luaprimer)
