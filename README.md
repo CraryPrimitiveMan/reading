@@ -29,6 +29,9 @@
 ## Redis
 + [Redis 设计与实现](http://redisbook.readthedocs.org/en/latest/index.html)
 
+## SQL
++ [如果有人问你数据库的原理，叫他看这篇文章](http://blog.jobbole.com/100349/)
+
 ## Nginx
 + [Nginx 变量漫谈](http://blog.sina.com.cn/s/articlelist_1834459124_1_1.html)
 + [Nginx 配置指令的执行顺序](http://blog.sina.com.cn/s/articlelist_1834459124_2_1.html)
