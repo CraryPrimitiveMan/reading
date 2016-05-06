@@ -9,6 +9,7 @@
 + [PHP扩展开发及内核应用](https://github.com/walu/phpbook/blob/master/preface.md)
 + [提高 PHP 代码质量的 36 计](http://blog.jobbole.com/99014/)
 + [PHP并发IO编程之路](http://blog.jobbole.com/98986/)
++ [PHP 高级编程之多线程](http://netkiller.github.io/journal/php.thread.html)
 
 ## Go
 + [Go语言圣经](https://docs.ruanjiadeng.com/gopl-zh/)
@@ -66,6 +67,7 @@
 + [风雪之隅](http://www.laruence.com/) -- PHP7核心开发者, Yaf, Yar, Yac等项目作者的博客
 + [韩天峰(Rango)的博客](http://rango.swoole.com/) -- Swoole作者的博客
 + [agentzh的博客](http://blog.sina.com.cn/openresty) -- Openresty作者的博客
++ [Netkiller系列手札](http://netkiller.github.io/) -- Netkiller 系列电子书
 + [火丁笔记](http://huoding.com/) -- 火丁为「灯」，即：「LAMP」！
 + [pagefault](http://www.pagefault.info/) -- 熟悉c，高性能网络服务器开发
 + [Hawstein's Blog](http://www.hawstein.com/) -- Scala周报
