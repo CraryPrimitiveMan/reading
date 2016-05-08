@@ -50,6 +50,9 @@
 + [PHP AMQP Doc](http://php.net/manual/pl/book.amqp.php)
 + [RabbitMQ从入门到精通](http://blog.csdn.net/column/details/rabbitmq.html)
 
+## Wireshark
++ [Wireshark协议分析从入门到精通](http://edu.51cto.com/lesson/id-62643.html)
+
 ## 性能
 + [c10k](http://www.kegel.com/c10k.html)
 + [c10k中文](http://www.oschina.net/translate/c10k)
