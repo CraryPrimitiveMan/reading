@@ -64,6 +64,9 @@
 + [Linux工具快速教程](http://linuxtools-rst.readthedocs.org/zh_CN/latest/index.html)
 + [linux内核揭密](https://xinqiu.gitbooks.io/linux-insides-cn/content/index.html)
 
+## 协议
++ [FastCGI规范中文](http://fuzhong1983.blog.163.com/blog/static/1684705201051002951763/)
+
 ## 其他
 + [How to be a Programmer](https://github.com/braydie/HowToBeAProgrammer/blob/master/zh/README.md)
 
