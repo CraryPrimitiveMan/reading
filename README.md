@@ -43,6 +43,7 @@
 + [Nginx中文文档](http://www.nginx.cn/doc/)
 + [Nginx 配置文件详解](http://my.oschina.net/duxuefeng/blog/34880)
 + [跟我学Nginx+Lua开发](http://www.iteye.com/blogs/subjects/nginx-lua)
++ [Nginx + CGI/FastCGI + C/Cpp](http://www.cnblogs.com/skynet/p/4173450.html)
 
 ## RabbitMQ
 + [官网Examples](http://www.rabbitmq.com/getstarted.html)
