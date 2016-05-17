@@ -98,4 +98,7 @@
 + [正则表达式解析工具](https://jex.im/regulex/)
 + [icon转为web字体](https://icomoon.io/app/#/select)
 
+## 其他
++ [一大波能提高编程技能的游戏](http://blog.jobbole.com/100733/)
+
 ## [安装](./Installtion.md)
