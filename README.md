@@ -22,6 +22,7 @@
 + [You-Dont-Need-jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery/blob/master/README.zh-CN.md)
 + [Vue教程](http://vuejs.org.cn/guide/)
 + [vue-router文档](http://router.vuejs.org/zh-cn/index.html)
++ [Object.observe() 引爆数据绑定革命](http://www.w3ctech.com/topic/1097)
 
 ## Lua
 + [Lua入门手册](https://github.com/CraryPrimitiveMan/luaprimer)
