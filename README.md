@@ -56,6 +56,10 @@
 + [PHP AMQP Doc](http://php.net/manual/pl/book.amqp.php)
 + [RabbitMQ从入门到精通](http://blog.csdn.net/column/details/rabbitmq.html)
 
+## Elasticsearch
++ [Elasticsearch权威指南](http://es.xiaoleilu.com/)
++ [Mastering Elasticsearch](http://udn.yyuap.com/doc/mastering-elasticsearch/)
+
 ## Wireshark
 + [Wireshark协议分析从入门到精通](http://edu.51cto.com/lesson/id-62643.html)
 + [一站式学习Wireshark](http://blog.jobbole.com/?s=%E4%B8%80%E7%AB%99%E5%BC%8F%E5%AD%A6%E4%B9%A0Wireshark)
