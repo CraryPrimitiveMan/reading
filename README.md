@@ -34,6 +34,7 @@
 ## Redis
 + [Redis 设计与实现](http://redisbook.readthedocs.org/en/latest/index.html)
 + [Redis协议说明](http://www.redis.cn/topics/protocol.html)
++ [15天玩转redis](http://www.cnblogs.com/huangxincheng/category/755864.html)
 
 ## SQL
 + [如果有人问你数据库的原理，叫他看这篇文章](http://blog.jobbole.com/100349/)
