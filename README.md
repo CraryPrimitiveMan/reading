@@ -109,6 +109,14 @@
 + [正则表达式解析工具](https://jex.im/regulex/)
 + [icon转为web字体](https://icomoon.io/app/#/select)
 
+## 教程网站
++ [网易公开课](http://open.163.com/)
++ [慕课网(IMOOC)-国内最大的IT技能学习平台](http://www.imooc.com/course/list)
++ [实验楼 - 第一家以实验为核心的IT在线教育平台](https://www.shiyanlou.com/courses/)
++ [麦子学院 - 专业IT职业在线教育平台](http://www.maiziedu.com/)
++ [极客学院 IT在线教育平台-中国最大的IT职业在线教育平台](http://www.jikexueyuan.com/)
++ [汇智网 - 最前沿的在线互动编程学习平台](http://www.hubwiz.com/course/)
+
 ## 其他
 + [一大波能提高编程技能的游戏](http://blog.jobbole.com/100733/)
 
