@@ -16,6 +16,9 @@
 + [Go Web 编程](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md)
 + [深入解析Go](https://tiancaiamao.gitbooks.io/go-internals/content/zh/index.html)
 
+## Java
++ [Java高并发秒杀API](http://www.imooc.com/u/2145618/courses?sort=publish)
+
 ## Javascript
 + [ECMAScript 6入门](http://es6.ruanyifeng.com/)
 + [Vue.js中文文档](http://cn.vuejs.org/)
