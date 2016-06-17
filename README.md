@@ -101,6 +101,7 @@
 + [Mengkang's land](http://mengkang.net/) -- PHP/Java相关博客
 + [我的志愿是做一个校长](http://guweigang.com/) -- PHP相关博客
 + [张宴的博客](http://zyan.cc/index.php) -- Web系统架构与底层研发
++ [酷壳](http://coolshell.cn/) -- 享受编程和技术所带来的快乐
 + [沈逸的个人站点](http://www.hishenyi.com/)
 
 ## 公开课
