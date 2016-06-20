@@ -10,6 +10,7 @@
 + [提高 PHP 代码质量的 36 计](http://blog.jobbole.com/99014/)
 + [PHP并发IO编程之路](http://blog.jobbole.com/98986/)
 + [PHP 高级编程之多线程](http://netkiller.github.io/journal/php.thread.html)
++ [WordPress 主题教程](http://blog.wpjam.com/series/wordpress-theme-tutorials/)
 
 ## Go
 + [Go语言圣经](https://docs.ruanjiadeng.com/gopl-zh/)
