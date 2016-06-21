@@ -97,6 +97,7 @@
 + [Netkiller系列手札](http://netkiller.github.io/) -- Netkiller 系列电子书
 + [火丁笔记](http://huoding.com/) -- 火丁为「灯」，即：「LAMP」！
 + [pagefault](http://www.pagefault.info/) -- 熟悉c，高性能网络服务器开发
++ [云风的 BLOG](http://blog.codingnow.com/) -- 思绪来得快去得也快，偶尔会在这里停留
 + [Hawstein's Blog](http://www.hawstein.com/) -- Scala周报
 + [李子的博客](http://blog.lifeibo.com/) -- 关注高性能网络服务器，关键C200k
 + [Mengkang's land](http://mengkang.net/) -- PHP/Java相关博客
