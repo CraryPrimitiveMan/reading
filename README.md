@@ -17,6 +17,9 @@
 + [Go Web 编程](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md)
 + [深入解析Go](https://tiancaiamao.gitbooks.io/go-internals/content/zh/index.html)
 
+## Rust
++ [通过例子学 Rust](https://rustwiki.org/rust-by-example/)
+
 ## Java
 + [Java高并发秒杀API](http://www.imooc.com/u/2145618/courses?sort=publish)
 
