@@ -19,6 +19,7 @@
 
 ## Rust
 + [通过例子学 Rust](https://rustwiki.org/rust-by-example/)
++ [Rust开发技术学习路线](http://special.csdncms.csdn.net/rust/index.shtml)
 
 ## Java
 + [Java高并发秒杀API](http://www.imooc.com/u/2145618/courses?sort=publish)
