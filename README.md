@@ -122,6 +122,7 @@
 + [icon转为web字体](https://icomoon.io/app/#/select)
 + [画图工具](https://www.processon.com)
 + [html和markdown转换工具](http://www.atool.org/html2markdown.php)
++ [工业和信息化部ICP/IP地址/域名信息备案管理系统](http://www.miitbeian.gov.cn/publish/query/indexFirst.action)
 
 ## 教程网站
 + [网易公开课](http://open.163.com/)
