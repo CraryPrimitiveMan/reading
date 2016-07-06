@@ -75,6 +75,9 @@
 + [一站式学习Wireshark](http://blog.jobbole.com/?s=%E4%B8%80%E7%AB%99%E5%BC%8F%E5%AD%A6%E4%B9%A0Wireshark)
 + [聊聊 tcpdump 与 Wireshark 抓包分析](http://blog.jobbole.com/101476/)
 
+## Chrome
++ [Chrome扩展及应用开发](http://www.ituring.com.cn/minibook/950)
+
 ## 测试
 + [JMeter学习指南](https://wuyan.gitbooks.io/jmeter/content/)
 + [高性能产品的必由之路—性能测试工具](http://www.imooc.com/learn/278)
