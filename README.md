@@ -12,6 +12,7 @@
 + [PHP 高级编程之多线程](http://netkiller.github.io/journal/php.thread.html)
 + [WordPress 主题教程](http://blog.wpjam.com/series/wordpress-theme-tutorials/)
 + [Swoole文档](http://wiki.swoole.com/)
++ [PHP The Right Way](http://www.phptherightway.com/)
 
 ## Go
 + [Go语言圣经](https://docs.ruanjiadeng.com/gopl-zh/)
