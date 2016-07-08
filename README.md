@@ -140,6 +140,9 @@
 + [Tubidy Videos](http://gnext.net/)
 + [YouTube](https://www.youtube.com/)
 
+## 简历
++ [程序员简历模板](https://github.com/geekcompany/ResumeSample)
+
 ## 其他
 + [一大波能提高编程技能的游戏](http://blog.jobbole.com/100733/)
 
