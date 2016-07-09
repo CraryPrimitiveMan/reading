@@ -55,6 +55,7 @@
 + [Nginx开发从入门到精通](http://tengine.taobao.org/book/index.html)
 + [nginx源码分析-kenbinzhang](http://blog.csdn.net/kenbinzhang/article/category/603177)
 + [nginx源码分析-阿波](http://blog.csdn.net/livelylittlefish/article/category/838107)
++ [nginx源码分析-initphp](http://blog.csdn.net/initphp/article/category/2609039)
 + [OpenResty最佳实践](https://moonbingbing.gitbooks.io/openresty-best-practices/content/index.html)
 + [Nginx中文文档](http://www.nginx.cn/doc/)
 + [Nginx 配置文件详解](http://my.oschina.net/duxuefeng/blog/34880)
