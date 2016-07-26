@@ -13,6 +13,7 @@
 + [WordPress 主题教程](http://blog.wpjam.com/series/wordpress-theme-tutorials/)
 + [Swoole文档](http://wiki.swoole.com/)
 + [PHP The Right Way](http://www.phptherightway.com/)
++ [Laravel源码分析](http://blog.turn.tw/?page_id=796)
 
 ## Go
 + [Go语言圣经](https://docs.ruanjiadeng.com/gopl-zh/)
