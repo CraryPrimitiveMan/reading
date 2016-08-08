@@ -98,6 +98,9 @@
 ## 协议
 + [FastCGI规范中文](http://fuzhong1983.blog.163.com/blog/static/1684705201051002951763/)
 
+## PHPStorm
++ [Laravel Development using PhpStorm](https://confluence.jetbrains.com/display/PhpStorm/Laravel+Development+using+PhpStorm)
+
 ## 其他
 + [How to be a Programmer](https://github.com/braydie/HowToBeAProgrammer/blob/master/zh/README.md)
 
