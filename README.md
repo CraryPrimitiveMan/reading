@@ -49,6 +49,7 @@
 
 ## SQL
 + [如果有人问你数据库的原理，叫他看这篇文章](http://blog.jobbole.com/100349/)
++ [MySql避免重复插入记录方法](http://blog.csdn.net/jbboy/article/details/46828917)
 
 ## Nginx
 + [Nginx 变量漫谈](http://blog.sina.com.cn/s/articlelist_1834459124_1_1.html)
