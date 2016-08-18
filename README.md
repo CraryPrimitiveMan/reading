@@ -75,6 +75,10 @@
 + [Elasticsearch权威指南](http://es.xiaoleilu.com/)
 + [Mastering Elasticsearch](http://udn.yyuap.com/doc/mastering-elasticsearch/)
 
+## Mycat
++ [Mycat权威指南](http://mycat.io/document/Mycat_V1.6.0.pdf)
++ [MyCat 学习笔记](http://blog.csdn.net/kaye0110/article/category/6103722/2)
+
 ## Wireshark
 + [Wireshark协议分析从入门到精通](http://edu.51cto.com/lesson/id-62643.html)
 + [一站式学习Wireshark](http://blog.jobbole.com/?s=%E4%B8%80%E7%AB%99%E5%BC%8F%E5%AD%A6%E4%B9%A0Wireshark)
