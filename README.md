@@ -14,6 +14,7 @@
 + [Swoole文档](http://wiki.swoole.com/)
 + [PHP The Right Way](http://www.phptherightway.com/)
 + [Laravel源码分析](http://blog.turn.tw/?page_id=796)
++ [把扩展从php5升级到php7](http://yaoguais.com/article/php/extension-php5to7.html)
 
 ## Go
 + [Go语言圣经](https://docs.ruanjiadeng.com/gopl-zh/)
