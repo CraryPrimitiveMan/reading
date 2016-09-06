@@ -115,6 +115,7 @@
 ## 博客
 + [风雪之隅](http://www.laruence.com/) -- PHP7核心开发者, Yaf, Yar, Yac等项目作者的博客
 + [韩天峰(Rango)的博客](http://rango.swoole.com/) -- Swoole作者的博客
++ [阮一峰的网络日志](http://www.ruanyifeng.com/blog/archives.html)
 + [agentzh的博客](http://blog.sina.com.cn/openresty) -- Openresty作者的博客
 + [Netkiller系列手札](http://netkiller.github.io/) -- Netkiller 系列电子书
 + [火丁笔记](http://huoding.com/) -- 火丁为「灯」，即：「LAMP」！
