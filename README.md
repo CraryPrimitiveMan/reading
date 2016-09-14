@@ -62,7 +62,7 @@
 + [Nginx开发从入门到精通](http://tengine.taobao.org/book/index.html)
 + [nginx源码分析-kenbinzhang](http://blog.csdn.net/kenbinzhang/article/category/603177)
 + [nginx源码分析-阿波](http://blog.csdn.net/livelylittlefish/article/category/838107)
-+ [nginx源码分析-initphp](http://blog.csdn.net/initphp/article/category/2609039)
++ [nginx源码分析-initphp](http://blog.csdn.net/column/details/nginx-read.html)
 + [OpenResty最佳实践](https://moonbingbing.gitbooks.io/openresty-best-practices/content/index.html)
 + [Nginx中文文档](http://www.nginx.cn/doc/)
 + [Nginx 配置文件详解](http://my.oschina.net/duxuefeng/blog/34880)
@@ -96,6 +96,7 @@
 ## Graphviz
 + [绘图工具graphviz学习使用](http://www.tuicool.com/articles/r2iAfa)
 + [程序员绘图利器 — Graphviz](http://www.tuicool.com/articles/RjQfey)
++ [用 Graphviz 可视化函数调用](http://www.ibm.com/developerworks/cn/linux/l-graphvis/)
 
 ## 测试
 + [JMeter学习指南](https://wuyan.gitbooks.io/jmeter/content/)
