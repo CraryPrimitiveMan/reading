@@ -93,6 +93,10 @@
 ## Chrome
 + [Chrome扩展及应用开发](http://www.ituring.com.cn/minibook/950)
 
+## Graphviz
++ [绘图工具graphviz学习使用](http://www.tuicool.com/articles/r2iAfa)
++ [程序员绘图利器 — Graphviz](http://www.tuicool.com/articles/RjQfey)
+
 ## 测试
 + [JMeter学习指南](https://wuyan.gitbooks.io/jmeter/content/)
 + [高性能产品的必由之路—性能测试工具](http://www.imooc.com/learn/278)
