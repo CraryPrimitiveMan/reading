@@ -69,6 +69,7 @@
 + [跟我学Nginx+Lua开发](http://www.iteye.com/blogs/subjects/nginx-lua)
 + [Nginx + CGI/FastCGI + C/Cpp](http://www.cnblogs.com/skynet/p/4173450.html)
 + [nginx 源码学习笔记](http://blog.csdn.net/column/details/code-for-nginx.html)
++ [nginx源码剖析](http://blog.csdn.net/column/details/niginxsourcelearning.html)
 
 ## RabbitMQ
 + [官网Examples](http://www.rabbitmq.com/getstarted.html)
