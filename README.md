@@ -158,6 +158,7 @@
 + [工业和信息化部ICP/IP地址/域名信息备案管理系统](http://www.miitbeian.gov.cn/publish/query/indexFirst.action)
 + [搜英文缩写](http://shortof.com/)
 + [在线计算文件MD5/SHA1/CRC32值](http://www.cnfree.org/tools/hash.php)
++ [域名信息查询（WHOIS）](https://whois.aliyun.com/)
 
 ## 教程网站
 + [网易公开课](http://open.163.com/)
