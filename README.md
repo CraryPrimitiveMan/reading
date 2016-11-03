@@ -18,6 +18,7 @@
 + [PHP 性能分析第一篇: Xhprof & Xhgui 介绍](http://blog.oneapm.com/apm-tech/235.html)
 + [PHP 性能分析第二篇: Xhgui In-Depth](http://blog.oneapm.com/apm-tech/219.html)
 + [PHP 性能分析第三篇: 性能调优实战](http://blog.oneapm.com/apm-tech/216.html)
++ [PHP 性能追踪及分析工具 xhprof 的安装与使用](https://laravel-china.org/topics/3142)
 + [Working with PHPUnit and Selenium Webdriver](http://codeception.com/11-12-2013/working-with-phpunit-and-selenium-webdriver.html)
 + [PHPUnit文档](https://phpunit.de/manual/5.6/zh_cn/installation.html)
 
