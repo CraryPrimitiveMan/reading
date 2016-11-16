@@ -160,6 +160,7 @@
 + [搜英文缩写](http://shortof.com/)
 + [在线计算文件MD5/SHA1/CRC32值](http://www.cnfree.org/tools/hash.php)
 + [域名信息查询（WHOIS）](https://whois.aliyun.com/)
++ [让你的网站免费支持 HTTPS 及 Nginx 平滑升级](http://www.cnblogs.com/mafly/p/https_nginx.html)
 
 ## 教程网站
 + [网易公开课](http://open.163.com/)
