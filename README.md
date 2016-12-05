@@ -27,6 +27,7 @@
 + [Go Web 编程](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md)
 + [深入解析Go](https://tiancaiamao.gitbooks.io/go-internals/content/zh/index.html)
 + [深入Go UDP编程](http://colobu.com/2016/10/19/Go-UDP-Programming/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
++ [如何避开 Go 中的各种陷阱](http://newt0n.github.io/2016/11/07/%E5%A6%82%E4%BD%95%E9%81%BF%E5%BC%80-Go-%E4%B8%AD%E7%9A%84%E5%90%84%E7%A7%8D%E9%99%B7%E9%98%B1)
 
 ## Rust
 + [通过例子学 Rust](https://rustwiki.org/rust-by-example/)
@@ -54,6 +55,7 @@
 + [Redis 设计与实现](http://redisbook.readthedocs.org/en/latest/index.html)
 + [Redis协议说明](http://www.redis.cn/topics/protocol.html)
 + [15天玩转redis](http://www.cnblogs.com/huangxincheng/category/755864.html)
++ [Redis无限全量复制问题分析与优化](https://cachecloud.github.io/2016/11/24/%E5%85%A8%E9%87%8F%E5%A4%8D%E5%88%B6%E9%97%AE%E9%A2%98/)
 
 ## SQL
 + [如果有人问你数据库的原理，叫他看这篇文章](http://blog.jobbole.com/100349/)
@@ -93,6 +95,7 @@
 + [Wireshark协议分析从入门到精通](http://edu.51cto.com/lesson/id-62643.html)
 + [一站式学习Wireshark](http://blog.jobbole.com/?s=%E4%B8%80%E7%AB%99%E5%BC%8F%E5%AD%A6%E4%B9%A0Wireshark)
 + [聊聊 tcpdump 与 Wireshark 抓包分析](http://blog.jobbole.com/101476/)
++ [用 Wireshark 图解：TCP 三次握手](http://www.bysocket.com/?p=1404)
 
 ## Chrome
 + [Chrome扩展及应用开发](http://www.ituring.com.cn/minibook/950)
@@ -128,6 +131,7 @@
 ## 其他
 + [How to be a Programmer](https://github.com/braydie/HowToBeAProgrammer/blob/master/zh/README.md)
 + [Learn X in Y minutes](https://learnxinyminutes.com/)
++ [程序员的书籍资源](https://zhuanlan.zhihu.com/p/23857699)
 
 ## 博客
 + [风雪之隅](http://www.laruence.com/) -- PHP7核心开发者, Yaf, Yar, Yac等项目作者的博客
