@@ -22,6 +22,7 @@
 + [Working with PHPUnit and Selenium Webdriver](http://codeception.com/11-12-2013/working-with-phpunit-and-selenium-webdriver.html)
 + [PHPUnit文档](https://phpunit.de/manual/5.6/zh_cn/installation.html)
 + [The Clean Architecture in PHP 读书笔记](http://blog.zhuanxu.org/tags/Clean-Architecture/)
++ [基于MySQL和PHP的分布式事务处理](http://wenku.baidu.com/view/5228ddc9960590c69ec3767c.html)
 
 ## Go
 + [Go语言圣经](https://docs.ruanjiadeng.com/gopl-zh/)
