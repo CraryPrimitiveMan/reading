@@ -109,6 +109,9 @@
 + [使用graphviz绘制流程图](http://blog.jobbole.com/94472/)
 + [Graphiz Node Shapes](http://www.graphviz.org/doc/info/shapes.html)
 
+## 前端
++ [前端优化 9 个技巧，提高 Web 性能](http://web.jobbole.com/89512/)
+
 ## 测试
 + [JMeter学习指南](https://wuyan.gitbooks.io/jmeter/content/)
 + [高性能产品的必由之路—性能测试工具](http://www.imooc.com/learn/278)
@@ -134,6 +137,7 @@
 + [How to be a Programmer](https://github.com/braydie/HowToBeAProgrammer/blob/master/zh/README.md)
 + [Learn X in Y minutes](https://learnxinyminutes.com/)
 + [程序员的书籍资源](https://zhuanlan.zhihu.com/p/23857699)
++ [一大波能提高编程技能的游戏](http://blog.jobbole.com/100733/)
 
 ## 博客
 + [风雪之隅](http://www.laruence.com/) -- PHP7核心开发者, Yaf, Yar, Yac等项目作者的博客
@@ -185,8 +189,5 @@
 
 ## 简历
 + [程序员简历模板](https://github.com/geekcompany/ResumeSample)
-
-## 其他
-+ [一大波能提高编程技能的游戏](http://blog.jobbole.com/100733/)
 
 ## [安装](./Installtion.md)
