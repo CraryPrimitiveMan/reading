@@ -86,7 +86,7 @@
 + [RabbitMQ从入门到精通](http://blog.csdn.net/column/details/rabbitmq.html)
 
 ## Elasticsearch
-+ [Elasticsearch权威指南](http://es.xiaoleilu.com/)
++ [Elasticsearch权威指南](https://www.gitbook.com/book/fuxiaopang/learnelasticsearch/details)
 + [Mastering Elasticsearch](http://udn.yyuap.com/doc/mastering-elasticsearch/)
 
 ## Mycat
