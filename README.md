@@ -126,6 +126,7 @@
 + [Linux工具快速教程](http://linuxtools-rst.readthedocs.org/zh_CN/latest/index.html)
 + [linux内核揭密](https://xinqiu.gitbooks.io/linux-insides-cn/content/index.html)
 + [Linux环境进程间通信](http://www.ibm.com/developerworks/cn/views/linux/libraryview.jsp?sort_by=&show_abstract=true&show_all=&search_flag=&contentarea_by=Linux&search_by=Linux%E7%8E%AF%E5%A2%83%E8%BF%9B%E7%A8%8B%E9%97%B4%E9%80%9A%E4%BF%A1&topic_by=-1&type_by=%E6%89%80%E6%9C%89%E7%B1%BB%E5%88%AB&ibm-search=%E6%90%9C%E7%B4%A2)
++ [禁用 SSH 远程主机的公钥检查](http://www.worldhello.net/2010/04/08/1026.html)
 
 ## 协议
 + [FastCGI规范中文](http://fuzhong1983.blog.163.com/blog/static/1684705201051002951763/)
