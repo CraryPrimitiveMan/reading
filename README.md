@@ -78,6 +78,7 @@
 + [Nginx + CGI/FastCGI + C/Cpp](http://www.cnblogs.com/skynet/p/4173450.html)
 + [nginx 源码学习笔记](http://blog.csdn.net/column/details/code-for-nginx.html)
 + [nginx源码剖析](http://blog.csdn.net/column/details/niginxsourcelearning.html)
++ [NGX_HTTP_REALIP_MODULE使用详解](https://leo108.com/pid-2132.asp)
 
 ## RabbitMQ
 + [官网Examples](http://www.rabbitmq.com/getstarted.html)
