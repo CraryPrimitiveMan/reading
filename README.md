@@ -63,6 +63,7 @@
 + [如果有人问你数据库的原理，叫他看这篇文章](http://blog.jobbole.com/100349/)
 + [MySql避免重复插入记录方法](http://blog.csdn.net/jbboy/article/details/46828917)
 + [数据库分库分表(sharding)系列](http://blog.csdn.net/column/details/sharding.html)
++ [MySQL大表优化方案](https://segmentfault.com/a/1190000006158186)
 
 ## Nginx
 + [Nginx 变量漫谈](http://blog.sina.com.cn/s/articlelist_1834459124_1_1.html)
