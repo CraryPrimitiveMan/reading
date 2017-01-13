@@ -123,6 +123,9 @@
 + [c10k中文](http://www.oschina.net/translate/c10k)
 + [Web系统大规模并发——电商秒杀与抢购](http://www.csdn.net/article/2014-11-28/2822858)
 
+## 算法
++ [比例分配的算法设计](http://wenku.baidu.com/link?url=K7hleZlBL3145dvJJJlbMcki4WDHu5jHnSQvO1jJj5YbV5S8cYN060snUjGkVi9l0aCo4EB8GkbYy1EhJkiQpB7eODPfOhMaHT4V2hg4jpG)
+
 ## Linux
 + [Linux Shell 文本处理工具集锦](http://www.cnblogs.com/me115/p/3427319.html)
 + [Linux工具快速教程](http://linuxtools-rst.readthedocs.org/zh_CN/latest/index.html)
