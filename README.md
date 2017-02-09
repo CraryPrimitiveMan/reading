@@ -138,6 +138,7 @@
 
 ## PHPStorm
 + [Laravel Development using PhpStorm](https://confluence.jetbrains.com/display/PhpStorm/Laravel+Development+using+PhpStorm)
++ [Setting up Intellij IDEA for your Golang project](https://rootpd.com/2016/02/04/setting-up-intellij-idea-for-your-first-golang-project/)
 
 ## 其他
 + [How to be a Programmer](https://github.com/braydie/HowToBeAProgrammer/blob/master/zh/README.md)
