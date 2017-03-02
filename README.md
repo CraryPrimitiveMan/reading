@@ -187,6 +187,9 @@
 + [各大搜索引擎提交入口](http://www.seo468.com/seo/11.html)
 + [让你的网站免费支持 HTTPS 及 Nginx 平滑升级](http://www.cnblogs.com/mafly/p/https_nginx.html)
 
+## 第三方
++ [聚合支付系统服务商集成支付宝即时到账接口教程](http://www.jianshu.com/p/e8b84af03006)
+
 ## 教程网站
 + [网易公开课](http://open.163.com/)
 + [慕课网(IMOOC)-国内最大的IT技能学习平台](http://www.imooc.com/course/list)
