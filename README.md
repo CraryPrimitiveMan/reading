@@ -190,6 +190,7 @@
 
 ## 第三方
 + [聚合支付系统服务商集成支付宝即时到账接口教程](http://www.jianshu.com/p/e8b84af03006)
++ [Socialite Providers](http://socialiteproviders.github.io/)
 
 ## 教程网站
 + [网易公开课](http://open.163.com/)
