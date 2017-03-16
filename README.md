@@ -168,6 +168,7 @@
 + [酷壳](http://coolshell.cn/) -- 享受编程和技术所带来的快乐
 + [沈逸的个人站点](http://www.hishenyi.com/)
 + [伯乐在线--吳YH堅](http://www.jobbole.com/members/wuyinghao/)
++ [博学无忧--信海龙的博客](http://www.bo56.com/)
 
 ## 公开课
 + [麻省理工学院公开课：算法导论](http://open.163.com/special/opencourse/algorithms.html)
