@@ -171,6 +171,7 @@
 + [博学无忧--信海龙的博客](http://www.bo56.com/)
 
 ## 公开课
++ [机器学习入门](https://cn.udacity.com/course/intro-to-machine-learning--ud120)
 + [麻省理工学院公开课：算法导论](http://open.163.com/special/opencourse/algorithms.html)
 + [南京大学：计算机操作系统](https://www.coursera.org/learn/jisuanji-caozuo-xitong/)
 + [北京大学：操作系统原理](https://class.coursera.org/os-001/lecture)
