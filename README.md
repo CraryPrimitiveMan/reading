@@ -66,6 +66,10 @@
 + [数据库分库分表(sharding)系列](http://blog.csdn.net/column/details/sharding.html)
 + [MySQL大表优化方案](https://segmentfault.com/a/1190000006158186)
 
+## 架构设计
++ [谈谈后端业务系统的微服务化改造](http://www.infoq.com/cn/articles/the-back-end-business-systems-service-transformation)
++ [InfoQ微服务演讲](http://www.infoq.com/cn/microservice/presentations/)
+
 ## Nginx
 + [Nginx 变量漫谈](http://blog.sina.com.cn/s/articlelist_1834459124_1_1.html)
 + [Nginx 配置指令的执行顺序](http://blog.sina.com.cn/s/articlelist_1834459124_2_1.html)
