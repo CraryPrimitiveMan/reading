@@ -176,6 +176,7 @@
 
 ## 公开课
 + [机器学习入门](https://cn.udacity.com/course/intro-to-machine-learning--ud120)
++ [深度学习基础介绍-机器学习](http://www.maiziedu.com/course/373/)
 + [麻省理工学院公开课：算法导论](http://open.163.com/special/opencourse/algorithms.html)
 + [南京大学：计算机操作系统](https://www.coursera.org/learn/jisuanji-caozuo-xitong/)
 + [北京大学：操作系统原理](https://class.coursera.org/os-001/lecture)
@@ -205,6 +206,7 @@
 + [麦子学院 - 专业IT职业在线教育平台](http://www.maiziedu.com/)
 + [极客学院 IT在线教育平台-中国最大的IT职业在线教育平台](http://www.jikexueyuan.com/)
 + [汇智网 - 最前沿的在线互动编程学习平台](http://www.hubwiz.com/course/)
++ [优达学城 (Udacity) - 传授硅谷的名企官方课程](https://cn.udacity.com)
 
 ## 视频网站
 + [Tubidy Videos](http://gnext.net/)
