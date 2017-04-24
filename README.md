@@ -174,6 +174,7 @@
 + [沈逸的个人站点](http://www.hishenyi.com/)
 + [伯乐在线--吳YH堅](http://www.jobbole.com/members/wuyinghao/)
 + [博学无忧--信海龙的博客](http://www.bo56.com/)
++ [JerryQu 的小站](https://imququ.com/) -- 专注 WEB 端开发
 
 ## 公开课
 + [机器学习入门](https://cn.udacity.com/course/intro-to-machine-learning--ud120)
