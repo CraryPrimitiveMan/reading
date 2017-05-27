@@ -209,6 +209,7 @@
 + [极客学院 IT在线教育平台-中国最大的IT职业在线教育平台](http://www.jikexueyuan.com/)
 + [汇智网 - 最前沿的在线互动编程学习平台](http://www.hubwiz.com/course/)
 + [优达学城 (Udacity) - 传授硅谷的名企官方课程](https://cn.udacity.com)
++ [AI教程](http://www.studyai.com/course/index/)
 
 ## 视频网站
 + [Tubidy Videos](http://gnext.net/)
