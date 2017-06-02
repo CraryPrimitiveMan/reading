@@ -24,6 +24,9 @@
 + [The Clean Architecture in PHP 读书笔记](http://blog.zhuanxu.org/tags/Clean-Architecture/)
 + [基于MySQL和PHP的分布式事务处理](http://wenku.baidu.com/view/5228ddc9960590c69ec3767c.html)
 
+## C/C++
++ [C语言字节对齐问题详解](http://www.cnblogs.com/clover-toeic/p/3853132.html)
+
 ## Go
 + [Go语言圣经](https://docs.ruanjiadeng.com/gopl-zh/)
 + [Go Web 编程](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md)
