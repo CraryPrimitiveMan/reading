@@ -180,6 +180,7 @@
 + [JerryQu 的小站](https://imququ.com/) -- 专注 WEB 端开发
 + [SharEDITor](http://www.shareditor.com/) -- Big Data ITors
 + [Taylor Otwell](https://medium.com/@taylorotwell) -- Laravel作者的博客
++ [bboyjing's blog](http://bboyjing.github.io/)
 
 ## 公开课
 + [机器学习入门](https://cn.udacity.com/course/intro-to-machine-learning--ud120)
