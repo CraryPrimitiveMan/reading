@@ -152,7 +152,7 @@
 + [Setting up Intellij IDEA for your Golang project](https://rootpd.com/2016/02/04/setting-up-intellij-idea-for-your-first-golang-project/)
 
 ## 论文
-+ [MapReduce: Simplified Data Processing on Large Clusters](https://static.googleusercontent.com/media/research.google.com/zh-CN//archive/mapreduce-osdi04.pdf)[MapReduce：面向大型集群的简化数据处理](http://www.cnblogs.com/fuzhe1989/p/3413457.html)
++ [MapReduce: Simplified Data Processing on Large Clusters](https://static.googleusercontent.com/media/research.google.com/zh-CN//archive/mapreduce-osdi04.pdf) -- [MapReduce：面向大型集群的简化数据处理](http://www.cnblogs.com/fuzhe1989/p/3413457.html)
 
 
 ## 其他
