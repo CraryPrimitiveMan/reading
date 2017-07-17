@@ -98,6 +98,7 @@
 + [RabbitMQ从入门到精通](http://blog.csdn.net/column/details/rabbitmq.html)
 
 ## Elasticsearch
++ [Elasticsearch: 权威指南](https://www.elastic.co/guide/cn/elasticsearch/guide/current/index.html)
 + [Elasticsearch 安装配置 外网访问](http://www.jianshu.com/p/658961f707d8)
 + [ELK学习系列文章](http://blog.csdn.net/qq_21387171/article/category/6568892)
 + [Elasticsearch权威指南](https://www.gitbook.com/book/fuxiaopang/learnelasticsearch/details)
