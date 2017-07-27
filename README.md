@@ -188,6 +188,7 @@
 + [SharEDITor](http://www.shareditor.com/) -- Big Data ITors
 + [Taylor Otwell](https://medium.com/@taylorotwell) -- Laravel作者的博客
 + [bboyjing's blog](http://bboyjing.github.io/)
++ [njpjsoftdev的博客](http://blog.csdn.net/njpjsoftdev/article)
 
 ## 公开课
 + [机器学习入门](https://cn.udacity.com/course/intro-to-machine-learning--ud120)
