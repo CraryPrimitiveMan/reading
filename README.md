@@ -74,6 +74,7 @@
 ## 架构设计
 + [谈谈后端业务系统的微服务化改造](http://www.infoq.com/cn/articles/the-back-end-business-systems-service-transformation)
 + [InfoQ微服务演讲](http://www.infoq.com/cn/microservice/presentations/)
++ [分布式事务？No, 最终一致性](https://zhuanlan.zhihu.com/p/25933039)
 
 ## Nginx
 + [Nginx 变量漫谈](http://blog.sina.com.cn/s/articlelist_1834459124_1_1.html)
