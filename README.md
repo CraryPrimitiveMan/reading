@@ -240,6 +240,7 @@
 + [打开Mac OSX原生的NTFS功能](http://www.tianwaihome.com/2014/07/mac-osx-ntfs.html)
 + [三种方式配置Mac OS X的启动项](http://blog.csdn.net/abby_sheen/article/details/7817198)
 + [Fix error formulae found in multiple taps](http://stackoverflow.com/questions/30864992/how-can-i-fix-error-formulae-found-in-multiple-taps)
++ [Homebrew的安装与使用](http://linfan.info/blog/2012/02/25/homebrew-installation-and-usage/)
 
 ### Ubuntu
 + [ubuntu安装配置elasticSearch](http://www.linuxdiyf.com/linux/17529.html)
