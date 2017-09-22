@@ -191,6 +191,7 @@
 + [Taylor Otwell](https://medium.com/@taylorotwell) -- Laravel作者的博客
 + [bboyjing's blog](http://bboyjing.github.io/)
 + [njpjsoftdev的博客](http://blog.csdn.net/njpjsoftdev/article)
++ [黑客画家的博客](https://my.oschina.net/fileoptions/blog?sort=time&temp=1506045459054)
 
 ## 公开课
 + [机器学习入门](https://cn.udacity.com/course/intro-to-machine-learning--ud120)
