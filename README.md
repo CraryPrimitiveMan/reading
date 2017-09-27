@@ -128,6 +128,9 @@
 ## 前端
 + [前端优化 9 个技巧，提高 Web 性能](http://web.jobbole.com/89512/)
 
+## 运维
++ [使用inotify/fswatch构建自动监控脚本](http://icodeit.org/2015/03/build-monitor-script-based-on-inotify/)
+
 ## 测试
 + [JMeter学习指南](https://wuyan.gitbooks.io/jmeter/content/)
 + [高性能产品的必由之路—性能测试工具](http://www.imooc.com/learn/278)
