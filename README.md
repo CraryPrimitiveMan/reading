@@ -153,6 +153,7 @@
 ## 协议
 + [FastCGI规范中文](http://fuzhong1983.blog.163.com/blog/static/1684705201051002951763/)
 + [JSON-RPC 2.0 规范(中文版)](http://wiki.geekdream.com/Specification/json-rpc_2.0.html)
++ [GraphQL中文翻译](https://www.gitbook.com/book/wanglihui/graphql/details)
 
 ## PHPStorm
 + [Laravel Development using PhpStorm](https://confluence.jetbrains.com/display/PhpStorm/Laravel+Development+using+PhpStorm)
