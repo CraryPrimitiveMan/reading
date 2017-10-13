@@ -24,6 +24,7 @@
 + [The Clean Architecture in PHP 读书笔记](http://blog.zhuanxu.org/tags/Clean-Architecture/)
 + [基于MySQL和PHP的分布式事务处理](http://wenku.baidu.com/view/5228ddc9960590c69ec3767c.html)
 + [PHP7内核剖析](https://github.com/pangudashu/php7-internal)
++ [Concise Guide to Swoole](https://linkeddestiny.gitbooks.io/easy-swoole/content/)
 
 ## C/C++
 + [C语言字节对齐问题详解](http://www.cnblogs.com/clover-toeic/p/3853132.html)
