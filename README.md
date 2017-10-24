@@ -37,6 +37,7 @@
 + [如何避开 Go 中的各种陷阱](http://newt0n.github.io/2016/11/07/%E5%A6%82%E4%BD%95%E9%81%BF%E5%BC%80-Go-%E4%B8%AD%E7%9A%84%E5%90%84%E7%A7%8D%E9%99%B7%E9%98%B1)
 + [Golang-简洁的并发](http://www.tuicool.com/articles/nYZnIn)
 + [使用 Go 一年的体验](https://linux.cn/article-8635-1.html)
++ [Golang标准库文档](https://studygolang.com/pkgdoc)
 
 ## Rust
 + [通过例子学 Rust](https://rustwiki.org/rust-by-example/)
@@ -155,6 +156,7 @@
 
 ## 协议
 + [FastCGI规范中文](http://fuzhong1983.blog.163.com/blog/static/1684705201051002951763/)
++ [fastcgi协议分析与实例](http://blog.csdn.net/shreck66/article/details/50355729)
 + [JSON-RPC 2.0 规范(中文版)](http://wiki.geekdream.com/Specification/json-rpc_2.0.html)
 + [GraphQL中文翻译](https://www.gitbook.com/book/wanglihui/graphql/details)
 
