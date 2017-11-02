@@ -78,6 +78,9 @@
 + [InfoQ微服务演讲](http://www.infoq.com/cn/microservice/presentations/)
 + [分布式事务？No, 最终一致性](https://zhuanlan.zhihu.com/p/25933039)
 
+## 机器学习
++ [数据挖掘十大算法详解](https://wizardforcel.gitbooks.io/dm-algo-top10/content/)
+
 ## Nginx
 + [Nginx 变量漫谈](http://blog.sina.com.cn/s/articlelist_1834459124_1_1.html)
 + [Nginx 配置指令的执行顺序](http://blog.sina.com.cn/s/articlelist_1834459124_2_1.html)
