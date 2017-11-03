@@ -80,6 +80,7 @@
 
 ## 机器学习
 + [数据挖掘十大算法详解](https://wizardforcel.gitbooks.io/dm-algo-top10/content/)
++ [SciPy Lecture Notes](https://wizardforcel.gitbooks.io/scipy-lecture-notes/content/0.html)
 
 ## Nginx
 + [Nginx 变量漫谈](http://blog.sina.com.cn/s/articlelist_1834459124_1_1.html)
