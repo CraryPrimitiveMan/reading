@@ -81,6 +81,7 @@
 ## 机器学习
 + [数据挖掘十大算法详解](https://wizardforcel.gitbooks.io/dm-algo-top10/content/)
 + [SciPy Lecture Notes](https://wizardforcel.gitbooks.io/scipy-lecture-notes/content/0.html)
++ [神经网络教程](http://www.tensorfly.cn/home/?cat=4)
 
 ## Nginx
 + [Nginx 变量漫谈](http://blog.sina.com.cn/s/articlelist_1834459124_1_1.html)
@@ -210,6 +211,7 @@
 
 ## 公开课
 + [机器学习入门](https://cn.udacity.com/course/intro-to-machine-learning--ud120)
++ [深度学习](https://cn.udacity.com/course/deep-learning--ud730)
 + [深度学习基础介绍-机器学习](http://www.maiziedu.com/course/373/)
 + [麻省理工学院公开课：算法导论](http://open.163.com/special/opencourse/algorithms.html)
 + [南京大学：计算机操作系统](https://www.coursera.org/learn/jisuanji-caozuo-xitong/)
