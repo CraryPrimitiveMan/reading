@@ -194,6 +194,7 @@
 + [pagefault](http://www.pagefault.info/) -- 熟悉c，高性能网络服务器开发
 + [云风的 BLOG](http://blog.codingnow.com/) -- 思绪来得快去得也快，偶尔会在这里停留
 + [Hawstein's Blog](http://www.hawstein.com/) -- Scala周报
++ [stevewang的博客](http://blog.sina.com.cn/u/2615392497) -- Golang博客
 + [李子的博客](http://blog.lifeibo.com/) -- 关注高性能网络服务器，关键C200k
 + [Mengkang's land](http://mengkang.net/) -- PHP/Java相关博客
 + [我的志愿是做一个校长](http://guweigang.com/) -- PHP相关博客
