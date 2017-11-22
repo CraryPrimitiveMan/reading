@@ -77,6 +77,7 @@
 + [谈谈后端业务系统的微服务化改造](http://www.infoq.com/cn/articles/the-back-end-business-systems-service-transformation)
 + [InfoQ微服务演讲](http://www.infoq.com/cn/microservice/presentations/)
 + [分布式事务？No, 最终一致性](https://zhuanlan.zhihu.com/p/25933039)
++ [架构师之路2017半年精选40篇](https://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=2651960243&idx=1&sn=c5d0de35c6d87e08370eef4179ff66bb&chksm=bd2d066f8a5a8f79a3478591e44054a1838e6aa8a35e544a5eb42b38cb274de6501a6b3b77e5)
 
 ## 机器学习
 + [数据挖掘十大算法详解](https://wizardforcel.gitbooks.io/dm-algo-top10/content/)
