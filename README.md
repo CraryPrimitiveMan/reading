@@ -37,6 +37,7 @@
 + [如何避开 Go 中的各种陷阱](http://newt0n.github.io/2016/11/07/%E5%A6%82%E4%BD%95%E9%81%BF%E5%BC%80-Go-%E4%B8%AD%E7%9A%84%E5%90%84%E7%A7%8D%E9%99%B7%E9%98%B1)
 + [Golang-简洁的并发](http://www.tuicool.com/articles/nYZnIn)
 + [使用 Go 一年的体验](https://linux.cn/article-8635-1.html)
++ [2017年超有价值的Golang文章](http://colobu.com/2017/12/28/top-golang-articles-of-2017/)
 + [Golang标准库文档](https://studygolang.com/pkgdoc)
 
 ## Rust
