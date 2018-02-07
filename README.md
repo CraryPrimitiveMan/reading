@@ -40,6 +40,7 @@
 + [使用 Go 一年的体验](https://linux.cn/article-8635-1.html)
 + [2017年超有价值的Golang文章](http://colobu.com/2017/12/28/top-golang-articles-of-2017/)
 + [Golang标准库文档](https://studygolang.com/pkgdoc)
++ [用Golang写一个搜索引擎](https://zhuanlan.zhihu.com/p/20938685)
 
 ## Rust
 + [通过例子学 Rust](https://rustwiki.org/rust-by-example/)
