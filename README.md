@@ -75,6 +75,7 @@
 + [MySql避免重复插入记录方法](http://blog.csdn.net/jbboy/article/details/46828917)
 + [数据库分库分表(sharding)系列](http://blog.csdn.net/column/details/sharding.html)
 + [MySQL大表优化方案](https://segmentfault.com/a/1190000006158186)
++ [一个最不可思议的MySQL死锁分析](http://hedengcheng.com/?p=844)
 
 ## 架构设计
 + [谈谈后端业务系统的微服务化改造](http://www.infoq.com/cn/articles/the-back-end-business-systems-service-transformation)
