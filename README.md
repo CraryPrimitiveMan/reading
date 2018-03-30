@@ -158,6 +158,7 @@
 + [Raft 一致性算法](http://www.infoq.com/cn/articles/raft-paper)
 + [一致性哈希算法](http://blog.csdn.net/cywosp/article/details/23397179)
 + [Roaring Bitmaps](http://dantezhao.com/2017/10/25/bigdata-algorithm/roaring-bitmap-principle/)
++ [roaringbitmap 源代码分析](https://blog.csdn.net/chenfenggang/article/details/75039964)
 
 ## Linux
 + [Linux Shell 文本处理工具集锦](http://www.cnblogs.com/me115/p/3427319.html)
