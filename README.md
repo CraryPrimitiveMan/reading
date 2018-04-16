@@ -130,6 +130,9 @@
 + [聊聊 tcpdump 与 Wireshark 抓包分析](http://www.jianshu.com/p/a62ed1bb5b20)
 + [用 Wireshark 图解：TCP 三次握手](http://www.bysocket.com/?p=1404)
 
+## Hadoop
++ [Hadoop Shell命令](https://hadoop.apache.org/docs/r1.0.4/cn/hdfs_shell.html)
+
 ## Chrome
 + [Chrome扩展及应用开发](http://www.ituring.com.cn/minibook/950)
 
