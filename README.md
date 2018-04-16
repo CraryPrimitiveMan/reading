@@ -198,6 +198,7 @@
 + [阮一峰的网络日志](http://www.ruanyifeng.com/blog/archives.html)
 + [agentzh的博客](http://blog.sina.com.cn/openresty) -- Openresty作者的博客
 + [并发编程网](http://ifeve.com/)
++ [PingCAP官方博客](https://pingcap.com/blog-cn/)
 + [Netkiller系列手札](http://netkiller.github.io/) -- Netkiller 系列电子书
 + [火丁笔记](http://huoding.com/) -- 火丁为「灯」，即：「LAMP」！
 + [小谈博客](https://www.tanteng.me/blog) -- 一个专注WEB开发的技术博客
