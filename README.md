@@ -50,6 +50,8 @@
 
 ## Java
 + [Java高并发秒杀API](http://www.imooc.com/u/2145618/courses?sort=publish)
++ [Spring Boot Tutorial](https://legacy.gitbook.com/book/waylau/spring-boot-tutorial/details)
++ [Spring Framework 5 中文文档](https://legacy.gitbook.com/book/lfvepclr/spring-framework-5-doc-cn/details)
 
 ## Javascript
 + [ECMAScript 6入门](http://es6.ruanyifeng.com/)
