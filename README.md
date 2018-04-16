@@ -42,6 +42,7 @@
 + [2017年超有价值的Golang文章](http://colobu.com/2017/12/28/top-golang-articles-of-2017/)
 + [Golang标准库文档](https://studygolang.com/pkgdoc)
 + [用Golang写一个搜索引擎](https://zhuanlan.zhihu.com/p/20938685)
++ [TiDB 源码阅读系列文章](https://pingcap.com/blog-cn/#%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB)
 
 ## Rust
 + [通过例子学 Rust](https://rustwiki.org/rust-by-example/)
