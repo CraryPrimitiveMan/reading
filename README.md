@@ -95,6 +95,12 @@
 + [SciPy Lecture Notes](https://wizardforcel.gitbooks.io/scipy-lecture-notes/content/0.html)
 + [神经网络教程](http://www.tensorfly.cn/home/?cat=4)
 
+## Docker
++ [使用Spring Cloud与Docker实战微服务](https://eacdy.gitbooks.io/spring-cloud-book/content/)
++ [Docker — 从入门到实践](https://yeasy.gitbooks.io/docker_practice/content/)
++ [Kubernetes Handbook——Kubernetes中文指南/云原生应用架构实践手册](https://jimmysong.io/kubernetes-handbook/)
++ [Awesome Service Mesh](http://www.servicemesher.com/awesome-servicemesh)
+
 ## Nginx
 + [Nginx 变量漫谈](http://blog.sina.com.cn/s/articlelist_1834459124_1_1.html)
 + [Nginx 配置指令的执行顺序](http://blog.sina.com.cn/s/articlelist_1834459124_2_1.html)
