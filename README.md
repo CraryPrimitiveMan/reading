@@ -44,6 +44,7 @@
 + [Golang标准库文档](https://studygolang.com/pkgdoc)
 + [用Golang写一个搜索引擎](https://zhuanlan.zhihu.com/p/20938685)
 + [TiDB 源码阅读系列文章](https://pingcap.com/blog-cn/#%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB)
++ [用GoLang实现微服务](https://blog.dingkewz.com/tags/golang/)
 
 ## Rust
 + [通过例子学 Rust](https://rustwiki.org/rust-by-example/)
