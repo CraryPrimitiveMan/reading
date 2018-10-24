@@ -29,6 +29,7 @@
 
 ## C/C++
 + [C语言字节对齐问题详解](http://www.cnblogs.com/clover-toeic/p/3853132.html)
++ [Let's Build a Simple Database](https://cstack.github.io/db_tutorial/)
 
 ## Go
 + [Go语言圣经](https://docs.ruanjiadeng.com/gopl-zh/)
