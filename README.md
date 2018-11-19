@@ -159,6 +159,9 @@
 ## 前端
 + [前端优化 9 个技巧，提高 Web 性能](http://web.jobbole.com/89512/)
 
+## 设计
++ [墨刀（MockingBot）中文学习指南](https://annhanhan.gitbooks.io/mockingbot/content/MB_intro.html)
+
 ## 运维
 + [使用inotify/fswatch构建自动监控脚本](http://icodeit.org/2015/03/build-monitor-script-based-on-inotify/)
 
