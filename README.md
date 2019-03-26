@@ -26,6 +26,7 @@
 + [PHP7内核剖析](https://github.com/pangudashu/php7-internal)
 + [Concise Guide to Swoole](https://linkeddestiny.gitbooks.io/easy-swoole/content/)
 + [Laravel API Tutorial: How to Build and Test a RESTful API](https://www.toptal.com/laravel/restful-laravel-api-tutorial)
++ [PHP’s OPcache and Symlink-based Deploys](https://ma.ttias.be/php-opcache-and-symlink-based-deploys/)
 
 ## C/C++
 + [C语言字节对齐问题详解](http://www.cnblogs.com/clover-toeic/p/3853132.html)
