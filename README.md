@@ -27,6 +27,7 @@
 + [Concise Guide to Swoole](https://linkeddestiny.gitbooks.io/easy-swoole/content/)
 + [Laravel API Tutorial: How to Build and Test a RESTful API](https://www.toptal.com/laravel/restful-laravel-api-tutorial)
 + [PHP’s OPcache and Symlink-based Deploys](https://ma.ttias.be/php-opcache-and-symlink-based-deploys/)
++ [PHPCS、PHPMD 的安装与配置](https://squizlabs.github.io/PHP_CodeSniffer/phpcs.phar)
 
 ## C/C++
 + [C语言字节对齐问题详解](http://www.cnblogs.com/clover-toeic/p/3853132.html)
