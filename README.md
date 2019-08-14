@@ -80,6 +80,8 @@
 + [Redis无限全量复制问题分析与优化](https://cachecloud.github.io/2016/11/24/%E5%85%A8%E9%87%8F%E5%A4%8D%E5%88%B6%E9%97%AE%E9%A2%98/)
 
 ## SQL
++ [MySQL5.7中文文档](https://www.docs4dev.com/docs/zh/mysql/5.7/reference/preface.html)
++ [数据库内核月报](http://mysql.taobao.org/monthly/)
 + [如果有人问你数据库的原理，叫他看这篇文章](http://blog.jobbole.com/100349/)
 + [MySql避免重复插入记录方法](http://blog.csdn.net/jbboy/article/details/46828917)
 + [数据库分库分表(sharding)系列](http://blog.csdn.net/column/details/sharding.html)
