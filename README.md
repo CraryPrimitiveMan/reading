@@ -48,6 +48,8 @@
 + [用Golang写一个搜索引擎](https://zhuanlan.zhihu.com/p/20938685)
 + [TiDB 源码阅读系列文章](https://pingcap.com/blog-cn/#%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB)
 + [用GoLang实现微服务](https://blog.dingkewz.com/tags/golang/) [英文版](https://ewanvalentine.io/tag/go/)
++ [Go微服务系列博客](https://github.com/callistaenterprise/goblog)
++ [Micro 中文示例、教程、资料，源码解读](https://github.com/micro-in-cn/tutorials)
 
 ## Rust
 + [通过例子学 Rust](https://rustwiki.org/rust-by-example/)
@@ -208,6 +210,8 @@
 + [Bigtable: A Distributed Storage System for Structured Data](https://static.googleusercontent.com/media/research.google.com/zh-CN//archive/bigtable-osdi06.pdf) -- [Bigtable：结构化数据的分布式存储系统](http://blog.bizcloudsoft.com/wp-content/uploads/Google-Bigtable%E4%B8%AD%E6%96%87%E7%89%88_1.0.pdf)
 + [The Google File System](https://static.googleusercontent.com/media/research.google.com/zh-CN//archive/gfs-sosp2003.pdf) -- [Google文件系统](http://blog.bizcloudsoft.com/wp-content/uploads/Google-File-System%E4%B8%AD%E6%96%87%E7%89%88_1.0.pdf)
 
+## 免费API
++ [免费的接口服务](https://github.com/fangzesheng/free-api)
 
 ## 其他
 + [How to be a Programmer](https://github.com/braydie/HowToBeAProgrammer/blob/master/zh/README.md)
