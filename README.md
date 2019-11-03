@@ -139,6 +139,10 @@
 + [Elasticsearch权威指南](https://www.gitbook.com/book/fuxiaopang/learnelasticsearch/details)
 + [Mastering Elasticsearch](http://udn.yyuap.com/doc/mastering-elasticsearch/)
 
+## ClickHouse
++ [ClickHouse中文文档](https://clickhouse.yandex/docs/zh/)
++ [ClickHouse大数据实时分析领域的黑马](https://www.jianshu.com/p/2d1fa91c2009)
+
 ## Mycat
 + [Mycat权威指南](http://mycat.io/document/Mycat_V1.6.0.pdf)
 + [MyCat 学习笔记](http://blog.csdn.net/kaye0110/article/category/6103722/2)
