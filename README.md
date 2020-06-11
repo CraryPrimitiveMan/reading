@@ -229,6 +229,7 @@
 + [Learn X in Y minutes](https://learnxinyminutes.com/)
 + [程序员的书籍资源](https://zhuanlan.zhihu.com/p/23857699)
 + [一大波能提高编程技能的游戏](http://blog.jobbole.com/100733/)
++ [为什么这么设计系列文章](https://draven.co/whys-the-design/)_
 
 ## 广告
 + [计算广告资料汇总](https://buaawht.github.io/2019/03/23/%E5%B9%BF%E5%91%8A%E8%B5%84%E6%96%99/)
