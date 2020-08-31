@@ -97,6 +97,7 @@
 + [分布式事务？No, 最终一致性](https://zhuanlan.zhihu.com/p/25933039)
 + [架构师之路2017半年精选40篇](https://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=2651960243&idx=1&sn=c5d0de35c6d87e08370eef4179ff66bb&chksm=bd2d066f8a5a8f79a3478591e44054a1838e6aa8a35e544a5eb42b38cb274de6501a6b3b77e5)
 + [从0开始的微服务架构](http://www.infoq.com/cn/profile/%E8%8B%8F%E6%A7%90)
++ [微服务下的数据一致性的几种实现方式之概述](https://www.jianshu.com/p/b264a196b177)
 
 ## 机器学习
 + [数据挖掘十大算法详解](https://wizardforcel.gitbooks.io/dm-algo-top10/content/)
