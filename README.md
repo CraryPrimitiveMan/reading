@@ -59,6 +59,9 @@
 + [Java高并发秒杀API](http://www.imooc.com/u/2145618/courses?sort=publish)
 + [Spring Boot Tutorial](https://legacy.gitbook.com/book/waylau/spring-boot-tutorial/details)
 + [Spring Framework 5 中文文档](https://legacy.gitbook.com/book/lfvepclr/spring-framework-5-doc-cn/details)
++ [State of the Lambda](http://cr.openjdk.java.net/~briangoetz/lambda/lambda-state-final.html) -- [深入理解Java 8 Lambda（语言篇——lambda，方法引用，目标类型和默认方法）](http://zh.lucida.me/blog/java-8-lambdas-insideout-language-features/)
++ [State of the Lambda: Libraries Edition](http://cr.openjdk.java.net/~briangoetz/lambda/lambda-libraries-final.html) -- [深入理解Java 8 Lambda（类库篇——Streams API，Collectors和并行）](http://zh.lucida.me/blog/java-8-lambdas-inside-out-library-features/)
++ [Translation of Lambda Expressions](http://cr.openjdk.java.net/~briangoetz/lambda/lambda-translation.html) -- [深入理解 Java 8 Lambda（原理篇——Java 编译器如何处理 lambda）](https://lowzj.com/notes/java/translation-of-lambda-expressions.html)
 
 ## Javascript
 + [ECMAScript 6入门](http://es6.ruanyifeng.com/)
