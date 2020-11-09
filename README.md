@@ -103,6 +103,8 @@
 + [微服务下的数据一致性的几种实现方式之概述](https://www.jianshu.com/p/b264a196b177)
 
 ## 机器学习
++ [如何用3个月零基础入门「机器学习」](https://zhuanlan.zhihu.com/p/29704017)
++ [Google机器学习课程](https://developers.google.com/machine-learning/crash-course/ml-intro?hl=zh-cn)
 + [数据挖掘十大算法详解](https://wizardforcel.gitbooks.io/dm-algo-top10/content/)
 + [SciPy Lecture Notes](https://wizardforcel.gitbooks.io/scipy-lecture-notes/content/0.html)
 + [神经网络教程](http://www.tensorfly.cn/home/?cat=4)
