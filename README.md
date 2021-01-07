@@ -63,6 +63,7 @@
 + [State of the Lambda: Libraries Edition](http://cr.openjdk.java.net/~briangoetz/lambda/lambda-libraries-final.html) -- [深入理解Java 8 Lambda（类库篇——Streams API，Collectors和并行）](http://zh.lucida.me/blog/java-8-lambdas-inside-out-library-features/)
 + [Translation of Lambda Expressions](http://cr.openjdk.java.net/~briangoetz/lambda/lambda-translation.html) -- [深入理解 Java 8 Lambda（原理篇——Java 编译器如何处理 lambda）](https://lowzj.com/notes/java/translation-of-lambda-expressions.html)
 + [一步到位springboot](https://bugpool.blog.csdn.net/article/details/105624082)
++ [Java全链路面试指南](https://www.zhihu.com/column/c_1050762683808403456)
 
 ## Javascript
 + [ECMAScript 6入门](http://es6.ruanyifeng.com/)
