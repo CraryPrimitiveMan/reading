@@ -321,6 +321,10 @@
 ## 简历
 + [程序员简历模板](https://github.com/geekcompany/ResumeSample)
 
+## 广告业务网站
++ [GA小站](https://www.ichdata.com/)
++ [网推实训营](https://www.shixunying.com/)
+
 ## 安装
 ### Mac
 + [Mac下Brew安装Nginx+Lua环境](http://www.dev-crazy.com/mac/mac%E4%B8%8Bbrew%E5%AE%89%E8%A3%85nginxlua%E7%8E%AF%E5%A2%83/)
