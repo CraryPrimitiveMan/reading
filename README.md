@@ -243,6 +243,8 @@
 + [计算广告资料汇总](https://buaawht.github.io/2019/03/23/%E5%B9%BF%E5%91%8A%E8%B5%84%E6%96%99/)
 + [广告图书列表](https://www.douban.com/doulist/120376990/)
 + [互联网DSP广告系统架构及关键技术解析](http://www.360doc.com/content/15/0806/07/2909773_489803369.shtml)
++ [GA小站](https://www.ichdata.com/)
++ [网推实训营](https://www.shixunying.com/)
 
 ## 博客
 + [风雪之隅](http://www.laruence.com/) -- PHP7核心开发者, Yaf, Yar, Yac等项目作者的博客
@@ -320,10 +322,6 @@
 
 ## 简历
 + [程序员简历模板](https://github.com/geekcompany/ResumeSample)
-
-## 广告业务网站
-+ [GA小站](https://www.ichdata.com/)
-+ [网推实训营](https://www.shixunying.com/)
 
 ## 安装
 ### Mac
