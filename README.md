@@ -243,6 +243,7 @@
 + [计算广告资料汇总](https://buaawht.github.io/2019/03/23/%E5%B9%BF%E5%91%8A%E8%B5%84%E6%96%99/)
 + [广告图书列表](https://www.douban.com/doulist/120376990/)
 + [互联网DSP广告系统架构及关键技术解析](http://www.360doc.com/content/15/0806/07/2909773_489803369.shtml)
++ [构建广告平台](https://cloud.google.com/solutions/infrastructure-options-for-building-advertising-platforms?hl=zh-cn)
 + [GA小站](https://www.ichdata.com/)
 + [网推实训营](https://www.shixunying.com/)
 
