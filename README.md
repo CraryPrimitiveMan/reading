@@ -65,6 +65,7 @@
 + [一步到位springboot](https://bugpool.blog.csdn.net/article/details/105624082)
 + [老实人spring源码解析](https://bugpool.blog.csdn.net/article/details/104833634)
 + [Java全链路面试指南](https://www.zhihu.com/column/c_1050762683808403456)
++ [用Java实现一个JVM虚拟机](https://bugstack.cn/itstack-demo-jvm/itstack-demo-jvm.html)
 
 ## Javascript
 + [ECMAScript 6入门](http://es6.ruanyifeng.com/)
