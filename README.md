@@ -293,6 +293,7 @@
 ## 工具
 + [正则表达式解析工具](https://jex.im/regulex/)
 + [正则表达式解析匹配工具](https://regex101.com/)
++ [在线Latex公式编辑工具](codecogs.com/latex/eqneditor.php?lang=zh-cn)--[简单语法](http://mohu.org/info/symbols/symbols.htm)
 + [icon转为web字体](https://icomoon.io/app/#/select)
 + [icon查找](http://www.iconfont.cn/)
 + [画图工具](https://www.processon.com)
