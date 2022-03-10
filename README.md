@@ -115,6 +115,7 @@
 + [SciPy Lecture Notes](https://wizardforcel.gitbooks.io/scipy-lecture-notes/content/0.html)
 + [神经网络教程](http://www.tensorfly.cn/home/?cat=4)
 + [机器学习领域适合新手学习的 GitHub 项目](https://www.zhihu.com/question/27098881)
++ [Sklearn 与 TensorFlow 机器学习实用指南](https://hands1ml.apachecn.org/#/)
 
 ## Docker
 + [使用Spring Cloud与Docker实战微服务](https://eacdy.gitbooks.io/spring-cloud-book/content/)
