@@ -240,6 +240,9 @@
 + [The Google File System](https://static.googleusercontent.com/media/research.google.com/zh-CN//archive/gfs-sosp2003.pdf) -- [Google文件系统](http://blog.bizcloudsoft.com/wp-content/uploads/Google-File-System%E4%B8%AD%E6%96%87%E7%89%88_1.0.pdf)
 + [PingCap Paper Reading](https://pingcap.com/community-cn/paper-reading/)
 
+## 自己动手系列
++ [rCore-Tutorial-Book 第三版](http://rcore-os.cn/rCore-Tutorial-Book-v3/) -- [视频](https://www.xuetangx.com/course/thu08091002729/10327450)
+
 ## 免费API
 + [免费的接口服务](https://github.com/fangzesheng/free-api)
 
