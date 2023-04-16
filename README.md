@@ -234,6 +234,11 @@
 + [Setting up Intellij IDEA for your Golang project](https://rootpd.com/2016/02/04/setting-up-intellij-idea-for-your-first-golang-project/)
 + [如何优雅的使用 phpStorm](https://laravel-china.org/topics/1692/how-to-use-phpstorm-gracefully)
 
+## AI
++ [AI Tools](https://www.futuretools.io/)
++ [AI工具集](https://ai-bot.cn/)
+
+
 ## 论文
 + [MapReduce: Simplified Data Processing on Large Clusters](https://static.googleusercontent.com/media/research.google.com/zh-CN//archive/mapreduce-osdi04.pdf) -- [MapReduce：面向大型集群的简化数据处理](http://www.cnblogs.com/fuzhe1989/p/3413457.html)
 + [Bigtable: A Distributed Storage System for Structured Data](https://static.googleusercontent.com/media/research.google.com/zh-CN//archive/bigtable-osdi06.pdf) -- [Bigtable：结构化数据的分布式存储系统](http://blog.bizcloudsoft.com/wp-content/uploads/Google-Bigtable%E4%B8%AD%E6%96%87%E7%89%88_1.0.pdf)
@@ -251,7 +256,7 @@
 + [Learn X in Y minutes](https://learnxinyminutes.com/)
 + [程序员的书籍资源](https://zhuanlan.zhihu.com/p/23857699)
 + [一大波能提高编程技能的游戏](http://blog.jobbole.com/100733/)
-+ [为什么这么设计系列文章](https://draven.co/whys-the-design/)_
++ [为什么这么设计系列文章](https://draven.co/whys-the-design/)
 
 ## 广告
 + [计算广告资料汇总](https://buaawht.github.io/2019/03/23/%E5%B9%BF%E5%91%8A%E8%B5%84%E6%96%99/)
