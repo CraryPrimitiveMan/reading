@@ -266,6 +266,7 @@
 + [构建广告平台](https://cloud.google.com/solutions/infrastructure-options-for-building-advertising-platforms?hl=zh-cn)
 + [GA小站](https://www.ichdata.com/)
 + [网推实训营](https://www.shixunying.com/)
++ [吴良超的学习笔记-计算广告](https://wulc.me/tags/%E8%AE%A1%E7%AE%97%E5%B9%BF%E5%91%8A/)
 
 ## 博客
 + [风雪之隅](http://www.laruence.com/) -- PHP7核心开发者, Yaf, Yar, Yac等项目作者的博客
