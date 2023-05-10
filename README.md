@@ -263,7 +263,7 @@
 + [广告图书列表](https://www.douban.com/doulist/120376990/)
 + [互联网DSP广告系统架构及关键技术解析](http://www.360doc.com/content/15/0806/07/2909773_489803369.shtml)
 + [推荐广告系列](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzAxMjM2MTY0OQ==&action=getalbum&album_id=1337224273634738176&scene=173&from_msgid=2650473809&from_itemidx=1&count=3&nolastread=1&uin=&key=&devicetype=Windows+10+x64&version=6302019c&lang=zh_CN&ascene=0&fontgear=2)
-+ [构建广告平台](https://cloud.google.com/solutions/infrastructure-options-for-building-advertising-platforms?hl=zh-cn)
++ [构建广告平台](https://cloud.google.com/architecture/infrastructure-options-for-building-advertising-platforms?hl=zh-cn)
 + [GA小站](https://www.ichdata.com/)
 + [网推实训营](https://www.shixunying.com/)
 + [吴良超的学习笔记-计算广告](https://wulc.me/tags/%E8%AE%A1%E7%AE%97%E5%B9%BF%E5%91%8A/)
