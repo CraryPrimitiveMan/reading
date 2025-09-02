@@ -99,6 +99,7 @@
 + [MySQL锁系列](http://keithlan.github.io/tags/InnoDB-Lock/)
 + [MySQL实战45讲](https://blog.csdn.net/u012131610/article/details/100150146)
 + [数据库内核杂谈](https://www.infoq.cn/theme/46)
++ [SQlite源码分析](https://huili.github.io/index.html)
 
 ## 架构设计
 + [谈谈后端业务系统的微服务化改造](http://www.infoq.com/cn/articles/the-back-end-business-systems-service-transformation)
